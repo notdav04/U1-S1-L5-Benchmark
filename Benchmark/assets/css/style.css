@@ -156,7 +156,7 @@ section img:not(#card-section img) {
 }
 
 .card p,
-h4 {
+.card h4 {
   width: 80%;
   margin-inline: auto;
   font-size: 16px;
