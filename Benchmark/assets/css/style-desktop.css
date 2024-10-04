@@ -124,7 +124,9 @@ p {
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
-
+em {
+  font-style: italic;
+}
 .testimonianze h4 {
   font-size: 35px;
   color: rgb(223, 223, 223);
