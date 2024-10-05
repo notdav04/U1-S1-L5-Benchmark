@@ -163,11 +163,13 @@ em {
   margin-inline: auto;
   text-align: center;
   vertical-align: bottom;
+  justify-content: space-between;
 }
 #card-wrapper {
   height: 60%;
-  width: fit-content;
+  width: 90%;
   margin-inline: auto;
+  display: flex;
 }
 .card img {
   height: 60%;
