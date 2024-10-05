@@ -100,8 +100,11 @@ p {
   vertical-align: middle;
 }
 .half-section p {
-  font-size: 16px;
+  font-size: 0.6rem;
   margin-bottom: 15px;
+}
+.half-section h4 {
+  font-size: 1rem;
 }
 .half-section img {
   border-radius: 50%;
