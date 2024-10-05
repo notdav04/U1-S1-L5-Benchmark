@@ -47,7 +47,7 @@ header img {
   border: none;
   border-radius: 5px;
   margin-top: 10px;
-  width: 20%;
+  width: fit-content;
   height: 35px;
   font-size: 16px;
 }
@@ -154,8 +154,8 @@ em {
 .card {
   border: 1px solid #dee1e3;
   border-radius: 5px;
-  height: 18rem;
-  width: 30%;
+  height: 15rem;
+  width: 25%;
   display: inline-block;
   margin-inline: auto;
   text-align: center;
@@ -163,13 +163,14 @@ em {
 }
 #card-wrapper {
   height: 60%;
-  width: 90%;
+  width: fit-content;
   margin-inline: auto;
 }
 .card img {
-  height: 65%;
+  height: 60%;
   width: 100%;
   margin-bottom: 10px;
+  border-radius: 5px 5px 0 0;
 }
 .card:not(:last-child) {
   margin-right: 20px;
