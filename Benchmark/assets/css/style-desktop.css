@@ -106,8 +106,8 @@ p {
 .half-section img {
   border-radius: 50%;
 
-  width: 75%;
-  margin-left: 50px;
+  width: 95%;
+  /* margin-left: 50px; */
 }
 #element-section:first-child {
   text-align: right;
@@ -181,7 +181,7 @@ em {
 
 .card h4,
 .card p {
-  font-size: 12px;
+  font-size: 10px;
   width: 90%;
   margin-inline: auto;
 }
